@@ -7,10 +7,10 @@
 # Last Updated: October 22, 2023
 #--------------------------------------------------------------
 
-lapply(data, summary)
 
 # read in the sample data -------------------------------------
 data <- read.csv('data.csv')
 
 
 # calculate summary statistics --------------------------------
+lapply(data, summary)
