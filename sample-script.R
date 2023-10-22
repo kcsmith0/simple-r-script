@@ -1,5 +1,5 @@
 #--------------------------------------------------------------
-# Author: [Replace with your name]
+# Author: Karen Smith
 #
 # Purpose: Make simple, local edits to an R script and push 
 #          them to GitHub
