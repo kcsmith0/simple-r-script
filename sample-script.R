@@ -4,7 +4,7 @@
 # Purpose: Make simple, local edits to an R script and push 
 #          them to GitHub
 #
-# Last Updated: [Replace with today's date]
+# Last Updated: October 22, 2023
 #--------------------------------------------------------------
 
 lapply(data, summary)
