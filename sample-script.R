@@ -7,6 +7,8 @@
 # Last Updated: [Replace with today's date]
 #--------------------------------------------------------------
 
+lapply(data, summary)
+
 # read in the sample data -------------------------------------
 data <- read.csv('data.csv')
 
